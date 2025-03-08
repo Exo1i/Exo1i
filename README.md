@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 <div>
   <h3>🛠️ Languages, Tools, and stats</h3>
   
