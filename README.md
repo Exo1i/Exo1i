@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Youssef (aka joe/exo) 👋</h1>
 
-<img align="right" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" alt="Coding GIF" width="300"/>
+<img align="right" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" alt="Coding GIF" width="200"/>
 
 
 <div>
